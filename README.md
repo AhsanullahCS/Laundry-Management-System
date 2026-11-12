@@ -472,9 +472,9 @@ Web Engineering Lab – Fall 2026
 
 | Member | Name | Registration Number |
 |---|---|---|
-| 1 | [Member Name] | [Registration Number] |
-| 2 | [Member Name] | [Registration Number] |
-| 3 | [Member Name] | [Registration Number] |
+| 1 | [AhsanUllah] | [420] |
+| 2 | [Huzaifa] | [419] |
+| 3 | [Zain Yasir Khan] | [401] |
 
 **Submitted To:** [Instructor Name]
 
